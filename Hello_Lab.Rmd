@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Hello, I can easily send you code you code that we can work on at the same time, very useful!
+
+And it acts as a repository for all your code :) 
+
+Git is great :D
